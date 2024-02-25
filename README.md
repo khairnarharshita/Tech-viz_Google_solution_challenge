@@ -21,7 +21,7 @@ Tool: Google Colab
 
 # Steps to run code :
 1. Add a dataset link to My Drive or a shared folder in Google Colab.
-2. Run step-by-step code snippets.
-3.Choose the image for testing from the folder and check the output .
+2. Run step-by-step code snippets. 
+3. Choose the image for testing from the folder and check the output.
 
-# Google Colab link : https://colab.research.google.com/drive/1qWILbk_V-Dk_4NA1FbBqm-7hGG6ksbc9?usp=sharing
+# Google Colab link: https://colab.research.google.com/drive/1qWILbk_V-Dk_4NA1FbBqm-7hGG6ksbc9?usp=sharing
