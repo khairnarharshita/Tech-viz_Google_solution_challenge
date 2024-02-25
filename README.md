@@ -11,9 +11,11 @@ This project aims to develop a machine-learning model to identify oil spills usi
 
 # Technology stack 
 
-Language: Python 
-Deep learning CNN model includes libraries like TensorFlow, NumPy
-Tool: Google Colab
+ Language: Python 
+
+ Deep learning CNN model includes libraries like TensorFlow, NumPy
+
+ Tool: Google Colab
 
 # Video demonstration link : 
 
